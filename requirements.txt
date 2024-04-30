@@ -1,0 +1,10 @@
+pandas
+openpyxl
+numpy
+nltk
+unittest
+scikit-learn
+sklearn
+joblib
+transformers
+torch
