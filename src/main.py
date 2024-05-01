@@ -1,13 +1,12 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox, scrolledtext
 import pandas as pd
-from transformers import BertTokenizer, BertModel
 import os
-import difflib
 import threading
 from utilities import load_document, save_results_to_txt, save_results_to_excel
 from feature_extraction import BertFeatureExtractor
-from text_comparison import jaccard_similarity
+from text_comparison import similarity_measure
+import difflib
 
 class PlagiarismCheckerApp:
     def __init__(self, root):
@@ -28,17 +27,20 @@ class PlagiarismCheckerApp:
         self.text_area = scrolledtext.ScrolledText(self.frame, wrap=tk.WORD)
         self.text_area.pack(fill=tk.BOTH, expand=True)
 
-        # Inicializar BERT tokenizer y modelo
-        self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-        self.bert_model = BertModel.from_pretrained('bert-base-uncased')
         self.feature_extractor = BertFeatureExtractor()
 
         self.original_documents = {}
         self.suspicious_documents = []
         self.results = []
 
-        # Define el umbral de similitud para considerar un documento como plagio
-        self.plagiarism_threshold = 0.75
+        # Define los umbrales de similitud para considerar un documento como plagio
+        self.plagiarism_thresholds = {
+            "parafraseo": 0.80,
+            "cambio_de_tiempo": 0.60,
+            "cambio_de_voz": 0.60,
+            "desordenar_las_frases": 0.50,
+            "insertar_o_reemplazar_frases": 0.50
+        }
 
         # Cargar documentos originales automáticamente
         self.load_original_documents("data/original")
@@ -84,20 +86,20 @@ class PlagiarismCheckerApp:
             features_susp = self.feature_extractor.build_feature_vector(susp_content)
             for orig_name, orig_content in self.original_documents.items():
                 features_orig = self.feature_extractor.build_feature_vector(orig_content)
-                similarity = jaccard_similarity(features_susp, features_orig).item()  # Asegúrate de obtener el valor numérico con .item()
+                similarity = similarity_measure(features_susp, features_orig, method="cosine").item()
                 
-                # Decide si es copia basándote en el umbral
-                is_copy = "Sí" if similarity > self.plagiarism_threshold else "No"
-                
-                # Si es una copia, intenta determinar el tipo de plagio (esto es un placeholder)
-                type_of_plagiarism = self.determine_plagiarism_type(susp_content, orig_content) if is_copy == "Sí" else "Ninguno"
+                # Decidir si es copia basándote en los umbrales de similitud
+                is_copy = {type_of_plagio: similarity > threshold for type_of_plagio, threshold in self.plagiarism_thresholds.items()}
+
+                # Si es una copia, intenta determinar el tipo de plagio
+                type_of_plagiarism = self.determine_plagiarism_type(susp_content, orig_content, is_copy)
 
                 result = {
                     "Documento Sospechoso": susp_name,
-                    "Copia": is_copy,
-                    "Documento Plagiado": orig_name if is_copy == "Sí" else "Ninguno",
+                    "Copia": any(is_copy.values()),
+                    "Documento Plagiado": orig_name if any(is_copy.values()) else "Ninguno",
                     "Tipo de Plagio": type_of_plagiarism,
-                    "Similitud": similarity
+                    "Similitud": f"{similarity * 100:.2f} %"
                 }
                 self.results.append(result)
                 self.root.after(0, self.display_result, result)
@@ -105,18 +107,18 @@ class PlagiarismCheckerApp:
         # Reanudamos el botón y mostramos un mensaje de finalización.
         self.root.after(0, self.finish_plagiarism_check)
 
-    def determine_plagiarism_type(susp_content, orig_content):
+    def determine_plagiarism_type(self, susp_content, orig_content, is_copy):
         """
         Determina el tipo de plagio de un documento sospechoso.
 
         Args:
-        - susp_content (str): Contenido del documento sospechoso.
-        - orig_content (str): Contenido del documento original.
+            susp_content (str): Contenido del documento sospechoso.
+            orig_content (str): Contenido del documento original.
+            is_copy (dict): Diccionario que indica si se detectó copia para cada tipo de plagio.
 
         Returns:
-        - str: Tipo de plagio detectado.
+            str: Tipo de plagio detectado.
         """
-        
         # Convertir a listas de frases para una comparación más fácil
         susp_sentences = susp_content.split('.')
         orig_sentences = orig_content.split('.')
@@ -127,19 +129,27 @@ class PlagiarismCheckerApp:
 
         for tag, i1, i2, j1, j2 in differences:
             if tag == 'insert':
-                return "Insertar o reemplazar frases"
+                return "Insertar o reemplazar frases" if is_copy["insertar_o_reemplazar_frases"] else "Ninguno"
             elif tag == 'delete':
-                return "Desordenar las frases"
+                return "Desordenar las frases" if is_copy["desordenar_las_frases"] else "Ninguno"
             elif tag == 'replace':
-                return "Parafraseo"
+                return "Parafraseo" if is_copy["parafraseo"] else "Ninguno"
             # Aquí se podrían añadir más reglas y refinamientos.
 
         # Si no se detectan diferencias significativas, no hay plagio.
         return "Ninguno"
 
     def display_result(self, result):
-            # Aquí actualizamos la UI con los resultados individuales
-        self.text_area.insert(tk.END, f"{result}\n")
+        # Formateamos los resultados para mostrarlos como deseas
+        display_text = (
+            f"Documento sospechoso: {result['Documento Sospechoso']}\n"
+            f"Copia: {'Sí' if result['Copia'] else 'No'}\n"
+            f"Documento plagiado: {result['Documento Plagiado']}\n"
+            f"Tipo de plagio: {result['Tipo de Plagio']}\n"
+            f"Similitud: {result['Similitud']}\n\n"
+        )
+        # Insertamos los resultados formateados en el área de texto
+        self.text_area.insert(tk.END, display_text)
 
     def finish_plagiarism_check(self):
         # Habilitar el botón de nuevo
