@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Original Document 1 vs Suspicious Document 1: 3.72% similar
 Original Document 2 vs Suspicious Document 1: 2.67% similar
 Original Document 3 vs Suspicious Document 1: 3.15% similar
@@ -1138,3 +1139,115 @@ Suspicious Document 7 detected as plagiarism
 Suspicious Document 8 detected as plagiarism
 Suspicious Document 9 detected as plagiarism
 Suspicious Document 10 detected as genuine
+=======
+Documento Sospechoso: FID-12.txt, Documento Original: org-001.txt, Similitud: 98.23%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-002.txt, Similitud: 91.21%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-003.txt, Similitud: 99.56%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-004.txt, Similitud: 98.54%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-005.txt, Similitud: 96.28%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-006.txt, Similitud: 91.7%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-007.txt, Similitud: 96.07%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-008.txt, Similitud: 95.12%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-009.txt, Similitud: 98.89%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-010.txt, Similitud: 89.68%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-011.txt, Similitud: 94.58%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-012.txt, Similitud: 96.1%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-013.txt, Similitud: 98.09%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-014.txt, Similitud: 85.91%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-015.txt, Similitud: 98.68%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-016.txt, Similitud: 98.8%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-017.txt, Similitud: 90.11%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-018.txt, Similitud: 98.74%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-019.txt, Similitud: 94.31%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-020.txt, Similitud: 98.1%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-021.txt, Similitud: 97.77%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-022.txt, Similitud: 94.46%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-023.txt, Similitud: 98.77%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-024.txt, Similitud: 98.77%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-025.txt, Similitud: 95.31%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-026.txt, Similitud: 96.39%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-027.txt, Similitud: 98.48%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-028.txt, Similitud: 99.08%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-029.txt, Similitud: 92.76%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-030.txt, Similitud: 99.68%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-031.txt, Similitud: 95.58%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-032.txt, Similitud: 97.54%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-033.txt, Similitud: 96.84%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-034.txt, Similitud: 96.33%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-035.txt, Similitud: 97.96%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-036.txt, Similitud: 99.91%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-037.txt, Similitud: 92.16%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-038.txt, Similitud: 99.76%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-039.txt, Similitud: 99.62%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-040.txt, Similitud: 99.39%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-041.txt, Similitud: 90.82%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-042.txt, Similitud: 98.68%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-043.txt, Similitud: 97.82%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-044.txt, Similitud: 96.62%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-045.txt, Similitud: 99.06%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-046.txt, Similitud: 98.62%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-047.txt, Similitud: 96.55%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-048.txt, Similitud: 99.65%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-049.txt, Similitud: 95.01%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-050.txt, Similitud: 99.8%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-051.txt, Similitud: 98.11%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-052.txt, Similitud: 88.43%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-053.txt, Similitud: 82.44%, Tipo de Plagio: Desordenar las frases, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-054.txt, Similitud: 97.77%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-055.txt, Similitud: 94.94%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-056.txt, Similitud: 99.56%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-057.txt, Similitud: 99.79%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-058.txt, Similitud: 99.93%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-059.txt, Similitud: 96.77%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-060.txt, Similitud: 98.49%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-061.txt, Similitud: 98.7%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-062.txt, Similitud: 99.63%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-063.txt, Similitud: 99.34%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-064.txt, Similitud: 97.6%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-065.txt, Similitud: 99.85%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-066.txt, Similitud: 98.45%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-067.txt, Similitud: 99.61%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-068.txt, Similitud: 85.92%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-069.txt, Similitud: 61.15%, Tipo de Plagio: Cambio de voz, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-070.txt, Similitud: 93.3%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-071.txt, Similitud: 90.97%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-072.txt, Similitud: 94.04%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-073.txt, Similitud: 97.01%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-074.txt, Similitud: 96.15%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-075.txt, Similitud: 94.7%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-076.txt, Similitud: 99.82%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-077.txt, Similitud: 97.1%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-078.txt, Similitud: 87.33%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-079.txt, Similitud: 98.6%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-080.txt, Similitud: 98.19%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-081.txt, Similitud: 99.66%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-082.txt, Similitud: 96.41%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-083.txt, Similitud: 90.3%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-084.txt, Similitud: 98.65%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-085.txt, Similitud: 99.82%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-086.txt, Similitud: 98.57%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-087.txt, Similitud: 98.72%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-088.txt, Similitud: 93.44%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-089.txt, Similitud: 99.86%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-090.txt, Similitud: 98.66%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-091.txt, Similitud: 95.51%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-092.txt, Similitud: 98.57%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-093.txt, Similitud: 97.56%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-094.txt, Similitud: 88.65%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-095.txt, Similitud: 99.76%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-096.txt, Similitud: 96.65%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-097.txt, Similitud: 98.55%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-098.txt, Similitud: 98.67%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-099.txt, Similitud: 97.9%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-100.txt, Similitud: 97.85%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-101.txt, Similitud: 98.44%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-102.txt, Similitud: 85.72%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-103.txt, Similitud: 89.56%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-104.txt, Similitud: 90.67%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-105.txt, Similitud: 98.82%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-106.txt, Similitud: 97.18%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-107.txt, Similitud: 98.81%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-108.txt, Similitud: 98.64%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-109.txt, Similitud: 98.78%, Tipo de Plagio: Parafraseo, Copia: Sí
+Documento Sospechoso: FID-12.txt, Documento Original: org-110.txt, Similitud: 96.99%, Tipo de Plagio: Parafraseo, Copia: Sí
+>>>>>>> Stashed changes
