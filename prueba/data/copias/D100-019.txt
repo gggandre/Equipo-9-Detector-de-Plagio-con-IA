@@ -1,0 +1,1 @@
+Autonomous vehicles utilize computer vision as an integral part of their technology, enabling them to perceive and understand the surrounding environment. This paper discusses the application of image processing and computer vision in autonomous driving, emphasizing its role in achieving intelligent decision-making and control.
