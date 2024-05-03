@@ -1,14 +1,17 @@
-import csv
+import os
+import time
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import SVC
 import scipy.sparse
 from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.metrics import confusion_matrix, roc_auc_score, recall_score, f1_score, RocCurveDisplay
+from sklearn.model_selection import train_test_split
+import matplotlib.pyplot as plt
 import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer, WordNetLemmatizer
-import os
 import numpy as np
 
 nltk.download('punkt')
@@ -52,14 +55,40 @@ def extract_features(texts):
     features = tfidf_vectorizer.fit_transform(texts)
     return features
 
-def train_model(features_originals, features_copies, labels):
+
+def train_model(features_originals, features_copies):
     features_combined = scipy.sparse.vstack([features_originals, features_copies])
     num_originals = features_originals.shape[0]
     num_copies = features_copies.shape[0]
     labels_combined = [0] * num_originals + [1] * num_copies
-    model = SVC(kernel='linear')
-    model.fit(features_combined, labels_combined)
-    return model
+    X_train, X_test, y_train, y_test = train_test_split(features_combined, labels_combined, test_size=0.25, random_state=42)
+    model = SVC(kernel='linear', probability=True)
+    model.fit(X_train, y_train)
+    y_pred = model.predict(X_test)
+    y_scores = model.decision_function(X_test)  # Get decision scores for ROC
+    return model, y_test, y_pred, y_scores
+
+def calculate_metrics(y_test, y_pred, y_scores):
+    auc_score = roc_auc_score(y_test, y_scores)
+    recall = recall_score(y_test, y_pred)
+    f1 = f1_score(y_test, y_pred)
+    return auc_score, recall, f1
+
+def plot_confusion_matrix(y_test, y_pred):
+    cm = confusion_matrix(y_test, y_pred)
+    fig, ax = plt.subplots()
+    ax.matshow(cm, cmap=plt.cm.Blues)
+    for (i, j), val in np.ndenumerate(cm):
+        ax.text(j, i, f'{val}', ha='center', va='center', color='red')
+    plt.xlabel('Predicted')
+    plt.ylabel('Actual')
+    plt.title('Confusion Matrix')
+    plt.show()
+
+def plot_roc_curve(y_test, y_scores):
+    RocCurveDisplay.from_predictions(y_test, y_scores)
+    plt.title('ROC Curve')
+    plt.show()
 
 def detect_plagiarism(model, features_copies):
     predictions = model.predict(features_copies)
@@ -74,7 +103,7 @@ def detect_paraphrasing(original_text, copy_text):
 
     similarity_score = cosine_similarity(tfidf_matrix[0], tfidf_matrix[1])[0][0]
     paraphrasing_percentage = similarity_score * 100
-    paraphrasing_percentage = min(paraphrasing_percentage, 100)  # Ensure not to exceed 100%
+    paraphrasing_percentage = min(paraphrasing_percentage, 100)
 
     if paraphrasing_percentage >= 50:
         return "Parafraseo", paraphrasing_percentage
@@ -146,11 +175,8 @@ def detect_inserted_phrases(original_text, copy_text):
 def detect_plagiarism_type(original_text, copy_text):
     types = []
     percentages = []
-
-    # Asegúrate de que cada función devuelva un porcentaje como un flotante
-    # Por ejemplo, si detect_disordered_phrases devuelve una tupla, asegúrate de extraer solo el valor del porcentaje.
     disordered_phrases_score = detect_disordered_phrases(original_text, copy_text)
-    if disordered_phrases_score[1] is not None:  # Asumiendo que la función devuelve una tupla (tipo, porcentaje)
+    if disordered_phrases_score[1] is not None:
         types.append(disordered_phrases_score[0])
         percentages.append(disordered_phrases_score[1])
 
@@ -179,15 +205,13 @@ def detect_plagiarism_type(original_text, copy_text):
         return types[max_percentage_index], percentages[max_percentage_index]
     return "Ninguno", 0
 
-
 def main():
-    originals_path = "data/otros1"
-    copies_path = "data/plagioProfes/Final Testing"
+    originals_path = "src/data/otros1"
+    copies_path = "src/data/plagioProfes/Final Testing"
     originals = load_originals(originals_path)
     copies = load_copies(copies_path)
 
     all_documents = originals + copies
-
     preprocessed_documents = [preprocess_text(text) for _, text in all_documents]
     features = extract_features(preprocessed_documents)
 
@@ -195,9 +219,19 @@ def main():
     features_originals = features[:num_originals]
     features_copies = features[num_originals:]
 
-    model = train_model(features_originals, features_copies, None)
+    # Entrenando el modelo y obteniendo predicciones
+    start_time = time.time()
+    model, y_test, y_pred, y_scores = train_model(features_originals, features_copies)
+    
+    # Calcular métricas
+    auc_score = calculate_metrics(y_test, y_pred, y_scores)
+    print(f"AUC: {auc_score}")
+    plot_confusion_matrix(y_test, y_pred)
+    plot_roc_curve(y_test, y_scores)
+    end_time = time.time()
+    print(f"Tiempo de ejecución: {end_time - start_time} segundos")
+    # Detección de plagio individual y escribir resultados
     predictions = detect_plagiarism(model, features_copies)
-
     plagiarism_results = []
     df = pd.DataFrame(columns=['original_name', 'original_text', 'copy_name', 'copy_text', 'is_copy', 'copy_type', 'percentage'])
 
@@ -209,18 +243,18 @@ def main():
             plagiarism_found = predictions[i] == 1
             plagiarism_results_copy.append((original_name, plagiarism_found, plagiarism_type, plagiarism_percentage))
             df = pd.concat([df, pd.DataFrame({'original_name': [original_name],
-                                              'original_text': [original_text],
-                                              'copy_name': [copy_name],
-                                              'copy_text': [copy_text],
-                                              'is_copy': [plagiarism_found],
-                                              'copy_type': [plagiarism_type],
-                                              'percentage': [plagiarism_percentage]})])
+                                            'original_text': [original_text],
+                                            'copy_name': [copy_name],
+                                            'copy_text': [copy_text],
+                                            'is_copy': [plagiarism_found],
+                                            'copy_type': [plagiarism_type],
+                                            'percentage': [plagiarism_percentage]})])
         # Ordenar los resultados por porcentaje de similitud y seleccionar los cinco primeros
         plagiarism_results_copy.sort(key=lambda x: x[3], reverse=True)
         top_5_results = plagiarism_results_copy[:5]
         plagiarism_results.append((copy_name, top_5_results))
 
-    with open('plagiarism_results.txt', 'w') as file:
+    with open('src/results/plagiarism_results.txt', 'w') as file:
         for result in plagiarism_results:
             copy_name, top_5_results = result
             file.write(f'\n************* Archivo copia: {copy_name} **************\n')
@@ -231,7 +265,7 @@ def main():
                 file.write(f"Porcentaje de plagio: {round(plagiarism_percentage, 2)}%\n")
                 file.write("------------------------------------------\n")
 
-    df.to_excel('plagiarism_results.xlsx', index=False)
+    df.to_excel('src/results/plagiarism_results.xlsx', index=False)
 
 if __name__ == "__main__":
     main()

@@ -1,10 +1,7 @@
-pandas
-openpyxl
 numpy
+pandas
+matplotlib
+scikit-learn
+scipy
 nltk
 unittest
-scikit-learn
-sklearn
-joblib
-transformers
-torch
