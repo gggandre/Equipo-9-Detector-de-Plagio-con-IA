@@ -1,5400 +1,810 @@
-Archivo copia: CT100-058.txt
-Archivo original: org-003.txt
+
+************* Archivo copia: FID-001.txt **************
+Archivo original: org-080.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.08%
+Porcentaje de plagio: 47.13%
 ------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-006.txt
+Archivo original: org-058.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.2%
+Porcentaje de plagio: 43.95%
 ------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-007.txt
+Archivo original: org-079.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.33%
+Porcentaje de plagio: 40.5%
 ------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-010.txt
+Archivo original: org-073.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.57%
+Porcentaje de plagio: 36.03%
 ------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-013.txt
+Archivo original: org-093.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.54%
+Porcentaje de plagio: 30.59%
 ------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-018.txt
+
+************* Archivo copia: FID-002.txt **************
+Archivo original: org-080.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.26%
+Porcentaje de plagio: 52.74%
 ------------------------------------------
-Archivo copia: CT100-058.txt
+Archivo original: org-058.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 44.49%
+------------------------------------------
+Archivo original: org-079.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 42.81%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 38.17%
+------------------------------------------
 Archivo original: org-022.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 33.3%
+Porcentaje de plagio: 33.75%
 ------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-024.txt
+
+************* Archivo copia: FID-003.txt **************
+Archivo original: org-080.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.11%
+Porcentaje de plagio: 48.63%
 ------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.59%
-------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.83%
-------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.55%
-------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.23%
-------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.29%
-------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.34%
-------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.55%
-------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.52%
-------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.15%
-------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.59%
-------------------------------------------
-Archivo copia: CT100-058.txt
 Archivo original: org-058.txt
 ¿Es plagio?: Si
-Tipo de plagio: Insertar o reemplazar frases
-Porcentaje de plagio: 80.21%
-------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
+Porcentaje de plagio: 43.5%
 ------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.93%
-------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.37%
-------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.02%
-------------------------------------------
-Archivo copia: CT100-058.txt
 Archivo original: org-079.txt
 ¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 41.72%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 36.86%
+------------------------------------------
+Archivo original: org-093.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 31.06%
+------------------------------------------
+
+************* Archivo copia: FID-004.txt **************
+Archivo original: org-080.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 53.73%
+------------------------------------------
+Archivo original: org-058.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 43.81%
+------------------------------------------
+Archivo original: org-079.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 43.53%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 37.86%
+------------------------------------------
+Archivo original: org-022.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 35.83%
+------------------------------------------
+
+************* Archivo copia: FID-005.txt **************
+Archivo original: org-059.txt
+¿Es plagio?: No
+Tipo de plagio: Insertar o reemplazar frases
+Porcentaje de plagio: 85.19%
+------------------------------------------
+Archivo original: org-080.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 47.57%
+------------------------------------------
+Archivo original: org-058.txt
+¿Es plagio?: No
 Tipo de plagio: Desordenar frases
 Porcentaje de plagio: 43.31%
 ------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-084.txt
+Archivo original: org-079.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 40.01%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 37.76%
+------------------------------------------
+
+************* Archivo copia: FID-006.txt **************
+Archivo original: org-058.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.56%
+Porcentaje de plagio: 46.18%
 ------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-087.txt
+Archivo original: org-080.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.07%
+Porcentaje de plagio: 44.92%
 ------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-092.txt
+Archivo original: org-079.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.32%
+Porcentaje de plagio: 39.32%
 ------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-096.txt
+Archivo original: org-073.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.01%
+Porcentaje de plagio: 37.17%
 ------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-099.txt
+Archivo original: org-093.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.44%
+Porcentaje de plagio: 31.71%
 ------------------------------------------
-Archivo copia: CT100-058.txt
-Archivo original: org-104.txt
+
+************* Archivo copia: FID-007.txt **************
+Archivo original: org-058.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.41%
+Porcentaje de plagio: 45.66%
 ------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-003.txt
+Archivo original: org-080.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.01%
+Porcentaje de plagio: 44.05%
 ------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-006.txt
+Archivo original: org-079.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.08%
+Porcentaje de plagio: 39.0%
 ------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-007.txt
+Archivo original: org-073.txt
 ¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 36.13%
+------------------------------------------
+Archivo original: org-093.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 29.08%
+------------------------------------------
+
+************* Archivo copia: FID-008.txt **************
+Archivo original: org-080.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 52.36%
+------------------------------------------
+Archivo original: org-058.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 44.55%
+------------------------------------------
+Archivo original: org-079.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 42.59%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 37.95%
+------------------------------------------
+Archivo original: org-093.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 32.36%
+------------------------------------------
+
+************* Archivo copia: FID-009.txt **************
+Archivo original: org-058.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 44.76%
+------------------------------------------
+Archivo original: org-080.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 43.46%
+------------------------------------------
+Archivo original: org-079.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 39.2%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 36.13%
+------------------------------------------
+Archivo original: org-059.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 30.58%
+------------------------------------------
+
+************* Archivo copia: FID-010.txt **************
+Archivo original: org-091.txt
+¿Es plagio?: No
 Tipo de plagio: Parafraseo
-Porcentaje de plagio: 87.99%
+Porcentaje de plagio: 97.47%
 ------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.23%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.23%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.2%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 30.35%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.0%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 3.88%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.11%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.62%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.89%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.24%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.88%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.93%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.05%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.97%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.59%
-------------------------------------------
-Archivo copia: CT15-007.txt
 Archivo original: org-058.txt
-¿Es plagio?: Si
+¿Es plagio?: No
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 44.65%
+Porcentaje de plagio: 46.36%
 ------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
+Archivo original: org-080.txt
+¿Es plagio?: No
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
+Porcentaje de plagio: 45.64%
 ------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.04%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.69%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.98%
-------------------------------------------
-Archivo copia: CT15-007.txt
 Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 41.95%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.99%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.42%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.85%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.71%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.95%
-------------------------------------------
-Archivo copia: CT15-007.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.65%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.21%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.9%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.89%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.61%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.96%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Insertar o reemplazar frases
-Porcentaje de plagio: 86.67%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 26.76%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.5%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.65%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.0%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.13%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.65%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.12%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.69%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.18%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.2%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.71%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.94%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 43.89%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.07%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.18%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.61%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
+¿Es plagio?: No
 Tipo de plagio: Desordenar frases
 Porcentaje de plagio: 39.85%
 ------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-084.txt
+Archivo original: org-073.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 37.47%
+------------------------------------------
+
+************* Archivo copia: FID-011.txt **************
+Archivo original: org-080.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.19%
+Porcentaje de plagio: 51.83%
 ------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-087.txt
+Archivo original: org-058.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.33%
+Porcentaje de plagio: 45.45%
 ------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-092.txt
+Archivo original: org-079.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.15%
+Porcentaje de plagio: 42.95%
 ------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-096.txt
+Archivo original: org-073.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.33%
+Porcentaje de plagio: 37.14%
 ------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.92%
-------------------------------------------
-Archivo copia: CT30-018.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 3.89%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.34%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 18.84%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.39%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.78%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 17.57%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.14%
-------------------------------------------
-Archivo copia: CT50-022.txt
 Archivo original: org-022.txt
 ¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 31.3%
+------------------------------------------
+
+************* Archivo copia: FID-012.txt **************
+Archivo original: org-058.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 46.12%
+------------------------------------------
+Archivo original: org-080.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 45.03%
+------------------------------------------
+Archivo original: org-079.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 40.43%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 36.27%
+------------------------------------------
+Archivo original: org-093.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 30.86%
+------------------------------------------
+
+************* Archivo copia: FID-013.txt **************
+Archivo original: org-058.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 44.71%
+------------------------------------------
+Archivo original: org-080.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 43.5%
+------------------------------------------
+Archivo original: org-079.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 38.13%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 35.99%
+------------------------------------------
+Archivo original: org-093.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 30.22%
+------------------------------------------
+
+************* Archivo copia: FID-014.txt **************
+Archivo original: org-080.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 53.54%
+------------------------------------------
+Archivo original: org-058.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 45.92%
+------------------------------------------
+Archivo original: org-079.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 43.87%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 38.84%
+------------------------------------------
+Archivo original: org-093.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 32.5%
+------------------------------------------
+
+************* Archivo copia: FID-015.txt **************
+Archivo original: org-080.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 46.93%
+------------------------------------------
+Archivo original: org-058.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 44.8%
+------------------------------------------
+Archivo original: org-079.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 40.98%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 36.19%
+------------------------------------------
+Archivo original: org-059.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 29.37%
+------------------------------------------
+
+************* Archivo copia: FID-016.txt **************
+Archivo original: org-057.txt
+¿Es plagio?: No
+Tipo de plagio: Parafraseo
+Porcentaje de plagio: 99.77%
+------------------------------------------
+Archivo original: org-058.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 45.53%
+------------------------------------------
+Archivo original: org-080.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 42.92%
+------------------------------------------
+Archivo original: org-079.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 38.34%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 35.03%
+------------------------------------------
+
+************* Archivo copia: FID-017.txt **************
+Archivo original: org-058.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 45.38%
+------------------------------------------
+Archivo original: org-080.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 44.35%
+------------------------------------------
+Archivo original: org-079.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 38.7%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 35.79%
+------------------------------------------
+Archivo original: org-093.txt
+¿Es plagio?: Si
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 29.72%
+------------------------------------------
+
+************* Archivo copia: FID-018.txt **************
+Archivo original: org-014.txt
+¿Es plagio?: No
 Tipo de plagio: Insertar o reemplazar frases
-Porcentaje de plagio: 66.28%
+Porcentaje de plagio: 97.4%
 ------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-024.txt
+Archivo original: org-080.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 47.44%
+------------------------------------------
+Archivo original: org-058.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 45.34%
+------------------------------------------
+Archivo original: org-079.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 41.66%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 34.99%
+------------------------------------------
+
+************* Archivo copia: FID-019.txt **************
+Archivo original: org-078.txt
+¿Es plagio?: No
+Tipo de plagio: Insertar o reemplazar frases
+Porcentaje de plagio: 100.0%
+------------------------------------------
+Archivo original: org-080.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 50.6%
+------------------------------------------
+Archivo original: org-058.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 44.36%
+------------------------------------------
+Archivo original: org-079.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 41.84%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 38.79%
+------------------------------------------
+
+************* Archivo copia: FID-020.txt **************
+Archivo original: org-080.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.67%
+Porcentaje de plagio: 45.75%
 ------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.79%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.28%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.71%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.26%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.06%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.53%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.55%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.26%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.37%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.63%
-------------------------------------------
-Archivo copia: CT50-022.txt
 Archivo original: org-058.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
 Porcentaje de plagio: 44.36%
 ------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.91%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.47%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.65%
-------------------------------------------
-Archivo copia: CT50-022.txt
 Archivo original: org-079.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 41.64%
+Porcentaje de plagio: 40.2%
 ------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-084.txt
+Archivo original: org-073.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.99%
+Porcentaje de plagio: 36.22%
 ------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-087.txt
+Archivo original: org-093.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.89%
+Porcentaje de plagio: 31.58%
 ------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-092.txt
+
+************* Archivo copia: FID-021.txt **************
+Archivo original: org-080.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.05%
+Porcentaje de plagio: 49.74%
 ------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.81%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.74%
-------------------------------------------
-Archivo copia: CT50-022.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.07%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.14%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.26%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.82%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.79%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.34%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.37%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 30.54%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.17%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 3.85%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.41%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Insertar o reemplazar frases
-Porcentaje de plagio: 69.0%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.29%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.69%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.54%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.29%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.34%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.32%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.66%
-------------------------------------------
-Archivo copia: CT75-035.txt
 Archivo original: org-058.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 45.14%
+Porcentaje de plagio: 44.13%
 ------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.14%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.37%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.78%
-------------------------------------------
-Archivo copia: CT75-035.txt
 Archivo original: org-079.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 41.77%
+Porcentaje de plagio: 41.63%
 ------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-084.txt
+Archivo original: org-073.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.01%
+Porcentaje de plagio: 35.59%
 ------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.75%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.35%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.03%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.87%
-------------------------------------------
-Archivo copia: CT75-035.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.49%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.31%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 19.64%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.24%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.51%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 17.97%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.37%
-------------------------------------------
-Archivo copia: CT87-047.txt
 Archivo original: org-022.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 35.25%
+Porcentaje de plagio: 32.82%
 ------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.36%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 3.57%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.6%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.97%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.04%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.62%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.56%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
+
+************* Archivo copia: FID-022.txt **************
+Archivo original: org-020.txt
+¿Es plagio?: No
 Tipo de plagio: Parafraseo
-Porcentaje de plagio: 58.75%
+Porcentaje de plagio: 97.78%
 ------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
+Archivo original: org-080.txt
+¿Es plagio?: No
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.13%
+Porcentaje de plagio: 48.57%
 ------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.59%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.46%
-------------------------------------------
-Archivo copia: CT87-047.txt
 Archivo original: org-058.txt
-¿Es plagio?: Si
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 44.79%
+------------------------------------------
+Archivo original: org-079.txt
+¿Es plagio?: No
 Tipo de plagio: Desordenar frases
 Porcentaje de plagio: 43.41%
 ------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.82%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 18.5%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.14%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 44.73%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.82%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.97%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.03%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.44%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.33%
-------------------------------------------
-Archivo copia: CT87-047.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.83%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.25%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.96%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.12%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.57%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 17.27%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.38%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 28.98%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.13%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 3.82%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.43%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.6%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.04%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.12%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.27%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.85%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.6%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.21%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.59%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 42.77%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.01%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.96%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.32%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 41.34%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.53%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Parafraseo
-Porcentaje de plagio: 79.78%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.55%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.05%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.95%
-------------------------------------------
-Archivo copia: CV100-087.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.0%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.1%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 19.81%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.65%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.3%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.12%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.56%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 34.31%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.06%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.41%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.83%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 24.75%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.54%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.56%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.34%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.62%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.26%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.14%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.58%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 45.15%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.96%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 17.73%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.44%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 44.23%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.44%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.8%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Parafraseo
-Porcentaje de plagio: 73.14%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.78%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.2%
-------------------------------------------
-Archivo copia: CV15-092.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.37%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.28%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.56%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.06%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.53%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 17.1%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.63%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 35.61%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.97%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 3.62%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.22%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.82%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.18%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.28%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.34%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.94%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.06%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.76%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.48%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 45.47%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.93%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 18.48%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Parafraseo
-Porcentaje de plagio: 77.93%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 44.05%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.51%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.55%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.14%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.4%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.95%
-------------------------------------------
-Archivo copia: CV30-077.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.54%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.21%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.17%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.84%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.13%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 17.72%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.57%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 38.34%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.21%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.57%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.44%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 25.55%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.09%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.89%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.69%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.31%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.15%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.29%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.45%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 45.36%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Insertar o reemplazar frases
-Porcentaje de plagio: 85.56%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.91%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 19.78%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.53%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 46.74%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.53%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.21%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.5%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.44%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.0%
-------------------------------------------
-Archivo copia: CV50-062.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.29%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.8%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.89%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.26%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.53%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 17.67%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.22%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 31.28%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.08%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 3.62%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.23%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.82%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.58%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Parafraseo
-Porcentaje de plagio: 68.08%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.44%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.51%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.33%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.68%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.13%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 44.86%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.13%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.01%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.94%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 42.25%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.08%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.43%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.76%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.1%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.22%
-------------------------------------------
-Archivo copia: CV75-040.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.65%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.31%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 19.38%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.5%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.48%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 17.29%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.04%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 35.27%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.26%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Parafraseo
-Porcentaje de plagio: 56.43%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.4%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.37%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.21%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.13%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.39%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.01%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.46%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.73%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.46%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 44.45%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.88%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 17.82%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.62%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 43.07%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.72%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.53%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.6%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.59%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.55%
-------------------------------------------
-Archivo copia: CV87-029.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.78%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-003.txt
+Archivo original: org-073.txt
 ¿Es plagio?: No
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.23%
+Porcentaje de plagio: 37.91%
 ------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-006.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.48%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-007.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.48%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-010.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.28%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-013.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.16%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-018.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.6%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-022.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 26.29%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-024.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.94%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-029.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.05%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-032.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.1%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-035.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.65%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-036.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.31%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-040.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.35%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-045.txt
+
+************* Archivo copia: FID-023.txt **************
+Archivo original: org-023.txt
 ¿Es plagio?: No
 Tipo de plagio: Insertar o reemplazar frases
 Porcentaje de plagio: 100.0%
 ------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-047.txt
+Archivo original: org-024.txt
+¿Es plagio?: No
+Tipo de plagio: Insertar o reemplazar frases
+Porcentaje de plagio: 100.0%
+------------------------------------------
+Archivo original: org-080.txt
 ¿Es plagio?: No
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.01%
+Porcentaje de plagio: 46.44%
 ------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-051.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.28%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-054.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.96%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-056.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.46%
-------------------------------------------
-Archivo copia: D100-045.txt
 Archivo original: org-058.txt
 ¿Es plagio?: No
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 46.31%
+Porcentaje de plagio: 45.99%
 ------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-062.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-067.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.15%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-072.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.54%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-077.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.81%
-------------------------------------------
-Archivo copia: D100-045.txt
 Archivo original: org-079.txt
 ¿Es plagio?: No
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 39.98%
+Porcentaje de plagio: 40.25%
 ------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-084.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.81%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-087.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.35%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-092.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.69%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-096.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 3.93%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-099.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.55%
-------------------------------------------
-Archivo copia: D100-045.txt
-Archivo original: org-104.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.64%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-003.txt
+
+************* Archivo copia: FID-024.txt **************
+Archivo original: org-058.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.31%
+Porcentaje de plagio: 46.41%
 ------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-006.txt
+Archivo original: org-080.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 17.79%
+Porcentaje de plagio: 44.43%
 ------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-007.txt
+Archivo original: org-079.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.89%
+Porcentaje de plagio: 38.86%
 ------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-010.txt
+Archivo original: org-073.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.93%
+Porcentaje de plagio: 35.92%
 ------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-013.txt
+Archivo original: org-093.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.4%
+Porcentaje de plagio: 31.14%
 ------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-018.txt
+
+************* Archivo copia: FID-025.txt **************
+Archivo original: org-080.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.75%
+Porcentaje de plagio: 49.77%
 ------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 25.62%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.48%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 3.23%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.55%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.91%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.86%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.55%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.3%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.16%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Insertar o reemplazar frases
-Porcentaje de plagio: 89.19%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.54%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.25%
-------------------------------------------
-Archivo copia: D15-051.txt
 Archivo original: org-058.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
 Porcentaje de plagio: 45.95%
 ------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.18%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.2%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.21%
-------------------------------------------
-Archivo copia: D15-051.txt
 Archivo original: org-079.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 38.49%
+Porcentaje de plagio: 42.78%
 ------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-084.txt
+Archivo original: org-073.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.56%
+Porcentaje de plagio: 36.35%
 ------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-087.txt
+Archivo original: org-093.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.92%
+Porcentaje de plagio: 32.72%
 ------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-092.txt
+
+************* Archivo copia: FID-026.txt **************
+Archivo original: org-101.txt
+¿Es plagio?: No
+Tipo de plagio: Parafraseo
+Porcentaje de plagio: 98.93%
+------------------------------------------
+Archivo original: org-058.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 46.69%
+------------------------------------------
+Archivo original: org-080.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 41.56%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 36.89%
+------------------------------------------
+Archivo original: org-079.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 36.58%
+------------------------------------------
+
+************* Archivo copia: FID-027.txt **************
+Archivo original: org-067.txt
+¿Es plagio?: No
+Tipo de plagio: Parafraseo
+Porcentaje de plagio: 100%
+------------------------------------------
+Archivo original: org-080.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 49.26%
+------------------------------------------
+Archivo original: org-058.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 44.86%
+------------------------------------------
+Archivo original: org-079.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 42.88%
+------------------------------------------
+Archivo original: org-073.txt
+¿Es plagio?: No
+Tipo de plagio: Desordenar frases
+Porcentaje de plagio: 36.54%
+------------------------------------------
+
+************* Archivo copia: FID-028.txt **************
+Archivo original: org-080.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.48%
+Porcentaje de plagio: 46.83%
 ------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.31%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.15%
-------------------------------------------
-Archivo copia: D15-051.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.03%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.15%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.81%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.26%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.45%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.22%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.24%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 28.35%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.65%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.67%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.56%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.75%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.1%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.07%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.92%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.37%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.9%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Insertar o reemplazar frases
-Porcentaje de plagio: 99.07%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.98%
-------------------------------------------
-Archivo copia: D30-054.txt
 Archivo original: org-058.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 43.97%
+Porcentaje de plagio: 45.54%
 ------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.25%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.69%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.24%
-------------------------------------------
-Archivo copia: D30-054.txt
 Archivo original: org-079.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 40.0%
+Porcentaje de plagio: 41.77%
 ------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-084.txt
+Archivo original: org-073.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.75%
+Porcentaje de plagio: 35.23%
 ------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-087.txt
+Archivo original: org-093.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.32%
+Porcentaje de plagio: 31.03%
 ------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.02%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.73%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.61%
-------------------------------------------
-Archivo copia: D30-054.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.81%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-003.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.92%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-006.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.22%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-007.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.51%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-010.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.39%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-013.txt
+
+************* Archivo copia: FID-029.txt **************
+Archivo original: org-109.txt
 ¿Es plagio?: No
 Tipo de plagio: Insertar o reemplazar frases
-Porcentaje de plagio: 100.0%
+Porcentaje de plagio: 94.96%
 ------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-018.txt
+Archivo original: org-080.txt
 ¿Es plagio?: No
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.74%
+Porcentaje de plagio: 51.66%
 ------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-022.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.62%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-024.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.11%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-029.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.18%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-032.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.75%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-035.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.2%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-036.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.52%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-040.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.55%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-045.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.03%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-047.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.05%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-051.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.06%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-054.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.45%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-056.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.64%
-------------------------------------------
-Archivo copia: D50-013.txt
 Archivo original: org-058.txt
 ¿Es plagio?: No
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 45.64%
+Porcentaje de plagio: 47.22%
 ------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-062.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-067.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.21%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-072.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.76%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-077.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.5%
-------------------------------------------
-Archivo copia: D50-013.txt
 Archivo original: org-079.txt
 ¿Es plagio?: No
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 38.06%
+Porcentaje de plagio: 44.21%
 ------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-084.txt
+Archivo original: org-073.txt
 ¿Es plagio?: No
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.47%
+Porcentaje de plagio: 38.65%
 ------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-087.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.63%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-092.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.28%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-096.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.63%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-099.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.85%
-------------------------------------------
-Archivo copia: D50-013.txt
-Archivo original: org-104.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.35%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-003.txt
+
+************* Archivo copia: FID-030.txt **************
+Archivo original: org-080.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.29%
+Porcentaje de plagio: 53.16%
 ------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-006.txt
+Archivo original: org-079.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 19.44%
+Porcentaje de plagio: 45.6%
 ------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.47%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.84%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.44%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.27%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 25.55%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Insertar o reemplazar frases
-Porcentaje de plagio: 100.0%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.34%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.58%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.17%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.33%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.96%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.61%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.71%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.26%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.4%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.88%
-------------------------------------------
-Archivo copia: D75-024.txt
 Archivo original: org-058.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 45.99%
+Porcentaje de plagio: 45.54%
 ------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-062.txt
+Archivo original: org-073.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
+Porcentaje de plagio: 37.69%
 ------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.16%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.78%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.93%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 40.25%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.81%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.05%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.58%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.17%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.59%
-------------------------------------------
-Archivo copia: D75-024.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.53%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-003.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.76%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-006.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.61%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-007.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.92%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-010.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.72%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-013.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.44%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-018.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.97%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-022.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 26.12%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-024.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.34%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-029.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.71%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-032.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.81%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-035.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.23%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-036.txt
-¿Es plagio?: No
-Tipo de plagio: Insertar o reemplazar frases
-Porcentaje de plagio: 100.0%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-040.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.46%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-045.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.67%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-047.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.38%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-051.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.96%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-054.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.83%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-056.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.29%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-058.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 47.41%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-062.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-067.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.22%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-072.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.99%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-077.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.67%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-079.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 39.3%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-084.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.0%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-087.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.44%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-092.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.53%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-096.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.5%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-099.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.31%
-------------------------------------------
-Archivo copia: D87-036.txt
-Archivo original: org-104.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.31%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.28%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.79%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.02%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.63%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.43%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.15%
-------------------------------------------
-Archivo copia: IR100-079.txt
 Archivo original: org-022.txt
 ¿Es plagio?: Si
 Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 24.83%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.77%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.7%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.87%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.39%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.01%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.6%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.57%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.68%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.93%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.52%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.25%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 45.61%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.16%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.58%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.08%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Parafraseo
-Porcentaje de plagio: 80.22%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.34%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.49%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.76%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.97%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.69%
-------------------------------------------
-Archivo copia: IR100-079.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.09%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.9%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 17.22%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.94%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.18%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.45%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.61%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 28.15%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.19%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 2.83%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.96%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.34%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.64%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.37%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.47%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.6%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Parafraseo
-Porcentaje de plagio: 71.29%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.41%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.94%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 43.73%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.12%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.71%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.69%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 40.24%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.33%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.25%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.17%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.76%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.13%
-------------------------------------------
-Archivo copia: IR15-067.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.69%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.59%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.3%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.68%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.64%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.5%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.34%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 28.67%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.38%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.64%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.45%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.98%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.78%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.52%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.58%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.64%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.19%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Insertar o reemplazar frases
-Porcentaje de plagio: 90.82%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.81%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 44.9%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.23%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.26%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.71%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 40.16%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.0%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.43%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.19%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.79%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.98%
-------------------------------------------
-Archivo copia: IR30-084.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.56%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.63%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.02%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.14%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.96%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.66%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.01%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 27.99%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.67%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.73%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.58%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.48%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.29%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.04%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.4%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.5%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.65%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.04%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.13%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 45.13%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.06%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.45%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.12%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 41.93%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.03%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.89%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.37%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.74%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Parafraseo
-Porcentaje de plagio: 76.01%
-------------------------------------------
-Archivo copia: IR50-099.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.41%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.05%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 17.8%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.29%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.56%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.82%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.76%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 28.38%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.22%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.69%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.78%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.75%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.02%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.42%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.02%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.16%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.67%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.77%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.98%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 43.75%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.06%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.77%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.83%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 39.82%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.56%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.2%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.45%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.32%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.96%
-------------------------------------------
-Archivo copia: IR75-104.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Parafraseo
-Porcentaje de plagio: 84.94%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.61%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Parafraseo
-Porcentaje de plagio: 89.16%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.09%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.11%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.83%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.0%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 30.31%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.0%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.48%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.64%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.48%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.4%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.92%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.15%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.74%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.03%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.98%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.13%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 44.83%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.92%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.26%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.16%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 41.82%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.74%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.74%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.56%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.54%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.94%
-------------------------------------------
-Archivo copia: IR87-006.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.94%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.56%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 19.03%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.12%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.87%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.37%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.82%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 33.65%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.25%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 3.53%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.97%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.9%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.9%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.62%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.73%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.18%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.01%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.9%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.72%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 45.25%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.83%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.64%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.04%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 42.65%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.1%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.09%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.0%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Insertar o reemplazar frases
-Porcentaje de plagio: 70.79%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.61%
-------------------------------------------
-Archivo copia: P100-096.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.38%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.84%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 18.58%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.48%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Parafraseo
-Porcentaje de plagio: 72.8%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.99%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.25%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 27.7%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.11%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 3.86%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.24%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.23%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.06%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.18%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.47%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.91%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.21%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.27%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.71%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 45.14%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.13%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.11%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.25%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 40.55%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.08%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.47%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.83%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.1%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.03%
-------------------------------------------
-Archivo copia: P15-010.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.11%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Parafraseo
-Porcentaje de plagio: 75.6%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.05%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.31%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.17%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.84%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.96%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 26.5%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.29%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.67%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.09%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.39%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.15%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.2%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.78%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.97%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.35%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.46%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.16%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 45.09%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.15%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.92%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.94%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 38.95%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.62%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.05%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.13%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.78%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.06%
-------------------------------------------
-Archivo copia: P30-003.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.58%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-003.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.66%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-006.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.86%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-007.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.89%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-010.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.74%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-013.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.38%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-018.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.12%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-022.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 32.5%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-024.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.35%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-029.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.59%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-032.txt
-¿Es plagio?: No
-Tipo de plagio: Parafraseo
-Porcentaje de plagio: 74.99%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-035.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 23.38%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-036.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.29%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-040.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.86%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-045.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.61%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-047.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.26%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-051.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.68%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-054.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.92%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-056.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.85%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-058.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 43.54%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-062.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-067.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.98%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-072.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 18.0%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-077.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.33%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-079.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 43.86%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-084.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.16%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-087.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.43%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-092.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.05%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-096.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.22%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-099.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.58%
-------------------------------------------
-Archivo copia: P50-032.txt
-Archivo original: org-104.txt
-¿Es plagio?: No
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.26%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 6.39%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 20.62%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.84%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.93%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.56%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 13.5%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 29.68%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.01%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 3.13%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.44%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.08%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.22%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.21%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.24%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.09%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.33%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.76%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Parafraseo
-Porcentaje de plagio: 59.47%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 44.41%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.14%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.57%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.49%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 41.43%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.37%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.08%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.13%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.93%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.88%
-------------------------------------------
-Archivo copia: P75-056.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.97%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-003.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.77%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-006.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.28%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-007.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 11.56%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-010.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.64%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-013.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 16.02%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-018.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 14.39%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-022.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 28.32%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-024.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 5.18%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-029.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 3.8%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-032.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 22.15%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-035.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 21.26%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-036.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.55%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-040.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.44%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-045.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.04%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-047.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.16%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-051.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 9.59%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-054.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.28%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-056.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.25%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-058.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 43.6%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-062.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 0.0%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-067.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.99%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-072.txt
-¿Es plagio?: Si
-Tipo de plagio: Parafraseo
-Porcentaje de plagio: 66.7%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-077.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 10.78%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-079.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 40.01%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-084.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 15.05%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-087.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 7.87%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-092.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 12.2%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-096.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.44%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-099.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 8.01%
-------------------------------------------
-Archivo copia: P87-072.txt
-Archivo original: org-104.txt
-¿Es plagio?: Si
-Tipo de plagio: Desordenar frases
-Porcentaje de plagio: 4.83%
+Porcentaje de plagio: 34.53%
 ------------------------------------------

@@ -1,23 +1,5 @@
 import os
 import pandas as pd
-from difflib import SequenceMatcher
-
-def calculate_similarity(text1, text2):
-    return SequenceMatcher(None, text1, text2).ratio() * 100
-
-def detect_copy(original_text, copy_text):
-    similarity_percentage = calculate_similarity(original_text, copy_text)
-    
-    if similarity_percentage == 100:
-        copy_type = "Reemplazo completo"
-    elif similarity_percentage > 80:
-        copy_type = "Cambio de tiempo"
-    elif similarity_percentage > 50:
-        copy_type = "Parafraseo"
-    else:
-        copy_type = "Desconocido"
-    
-    return similarity_percentage, copy_type
 
 def main():
     data = {
@@ -30,7 +12,7 @@ def main():
         "percentage": []
     }
     
-    original_folder = "data/original"
+    original_folder = "data/otros1"
     copy_folder = "data/copias"
     
     original_files = os.listdir(original_folder)
@@ -39,23 +21,18 @@ def main():
     for original_file in original_files:
         if original_file.endswith(".txt"):
             original_identifier = original_file.split("-")[1].split(".")[0]
-            with open(os.path.join(original_folder, original_file), "rb") as f:
-                original_text = f.read().decode("utf-8", errors="ignore")
+            with open(os.path.join(original_folder, original_file), "r", encoding="latin1") as f:
+                original_text = f.read()
 
-                
             for copy_file in copy_files:
                 if copy_file.endswith(".txt") and original_identifier in copy_file:
                     with open(os.path.join(copy_folder, copy_file), "r", encoding="utf-8") as f2:
                         copy_text = f2.read()
                     
+                    is_copy = 1  # Siempre es una copia
                     
-                    # Siempre es una copia, entonces is_copy es 1
-                    is_copy = 1
-                    
-                    # Analizar el nombre del archivo de copia para determinar el porcentaje de plagio
-                    plagiarism_percentage = int(copy_file.split("-")[0][2:])  # Porcentaje de plagio
-                    
-                    # Mapear el código de copia a una descripción
+                    # Obtener el tipo de plagio del nombre del archivo de copia
+                    copy_type_code = copy_file.split("-")[0][:2]  # Código de tipo de plagio
                     copy_type_mapping = {
                         "P": "Parafraseo",
                         "D": "Desordenar las frases",
@@ -64,7 +41,10 @@ def main():
                         "IR": "Insertar o reemplazar frases"
                     }
                     
-                    copy_type = copy_type_mapping.get(copy_file.split("-")[0][:2], "Desconocido")
+                    copy_type = copy_type_mapping.get(copy_type_code, "Desconocido")
+                    print(copy_file)
+                    # Obtener el porcentaje de plagio del nombre del archivo de copia
+                    plagiarism_percentage = int(copy_file.split("-")[0][2:])  # Porcentaje de plagio
                     
                     data["original_name"].append(original_file)
                     data["original_text"].append(original_text)

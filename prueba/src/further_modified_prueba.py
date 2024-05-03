@@ -207,18 +207,22 @@ def main():
         for j, (original_name, original_text) in enumerate(originals):
             plagiarism_type, plagiarism_percentage = detect_plagiarism_type(original_text, copy_text)
             plagiarism_found = predictions[i] == 1
-            plagiarism_results_copy.append((original_name, plagiarism_found, plagiarism_type, plagiarism_percentage))
-            df = pd.concat([df, pd.DataFrame({'original_name': [original_name],
-                                              'original_text': [original_text],
-                                              'copy_name': [copy_name],
-                                              'copy_text': [copy_text],
-                                              'is_copy': [plagiarism_found],
-                                              'copy_type': [plagiarism_type],
-                                              'percentage': [plagiarism_percentage]})])
+            if plagiarism_found:
+                plagiarism_results_copy.append((original_name, True, plagiarism_type, plagiarism_percentage))
+    else:
+        plagiarism_results_copy.append((original_name, False, 'Ninguno', 0))
+        df = pd.concat([df, pd.DataFrame({'original_name': [original_name],
+                                  'original_text': [original_text],
+                                  'copy_name': [copy_name],
+                                  'copy_text': [copy_text],
+                                  'is_copy': [plagiarism_found],
+                                  'copy_type': [plagiarism_type],
+                                  'percentage': [plagiarism_percentage]})])
         # Ordenar los resultados por porcentaje de similitud y seleccionar los cinco primeros
         plagiarism_results_copy.sort(key=lambda x: x[3], reverse=True)
         top_5_results = plagiarism_results_copy[:5]
         plagiarism_results.append((copy_name, top_5_results))
+        
 
     with open('plagiarism_results.txt', 'w') as file:
         for result in plagiarism_results:
@@ -227,7 +231,7 @@ def main():
             for original_name, plagiarism_found, plagiarism_type, plagiarism_percentage in top_5_results:
                 file.write(f'Archivo original: {original_name}\n')
                 file.write(f"¿Es plagio?: {'Si' if plagiarism_found else 'No'}\n")
-                file.write(f"Tipo de plagio: {'Ninguno' if plagiarism_found == 'No' else plagiarism_type}\n")
+                file.write(f"Tipo de plagio: {plagiarism_type}\n")
                 file.write(f"Porcentaje de plagio: {round(plagiarism_percentage, 2)}%\n")
                 file.write("------------------------------------------\n")
 
