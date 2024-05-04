@@ -1,3 +1,7 @@
+# Autores: A01745312 - Paula Sophia Santoyo Arteaga
+#          A01753176 - Gilberto André García Gaytán
+#          A01379299 - Ricardo Ramírez Condado
+
 import os
 import time
 import pandas as pd
@@ -14,11 +18,13 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer, WordNetLemmatizer
 import numpy as np
 
+# Descarga de datos necesarios para procesamiento de texto
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
 def preprocess_text(text):
+    """Procesa el texto eliminando stopwords, aplicando stemming y lematización."""
     tokens = word_tokenize(text)
     stop_words = set(stopwords.words('english'))
     filtered_tokens = [word for word in tokens if word.lower() not in stop_words]
@@ -29,12 +35,14 @@ def preprocess_text(text):
     return ' '.join(lemmatized_tokens)
 
 def calculate_similarity(text1, text2):
+    """Calcula la similitud de coseno entre dos textos utilizando TF-IDF."""
     tfidf_vectorizer = TfidfVectorizer()
     tfidf_matrix = tfidf_vectorizer.fit_transform([text1, text2])
     similarity_score = cosine_similarity(tfidf_matrix[0], tfidf_matrix[1])[0][0]
     return similarity_score
 
 def load_originals(originals_path):
+    """Carga archivos de texto considerados como originales desde un directorio especificado."""
     originals = []
     for filename in os.listdir(originals_path):
         with open(os.path.join(originals_path, filename), 'r', encoding='latin-1') as file:
@@ -43,6 +51,7 @@ def load_originals(originals_path):
     return originals
 
 def load_copies(copies_path):
+    """Carga archivos de texto considerados como copias desde un directorio especificado."""
     copies = []
     for filename in os.listdir(copies_path):
         with open(os.path.join(copies_path, filename), 'r', encoding='latin-1') as file:
@@ -51,12 +60,13 @@ def load_copies(copies_path):
     return copies
 
 def extract_features(texts):
+    """Extrae características usando TF-IDF de una lista de textos."""
     tfidf_vectorizer = TfidfVectorizer()
     features = tfidf_vectorizer.fit_transform(texts)
     return features
 
-
 def train_model(features_originals, features_copies):
+    """Entrena un modelo SVM para clasificar textos como originales o copias."""
     features_combined = scipy.sparse.vstack([features_originals, features_copies])
     num_originals = features_originals.shape[0]
     num_copies = features_copies.shape[0]
@@ -69,12 +79,14 @@ def train_model(features_originals, features_copies):
     return model, y_test, y_pred, y_scores
 
 def calculate_metrics(y_test, y_pred, y_scores):
+    """Calcula métricas de evaluación del modelo como AUC, recall y F1."""
     auc_score = roc_auc_score(y_test, y_scores)
     recall = recall_score(y_test, y_pred)
     f1 = f1_score(y_test, y_pred)
     return auc_score, recall, f1
 
 def plot_confusion_matrix(y_test, y_pred):
+    """Genera y muestra una matriz de confusión para las predicciones del modelo."""
     cm = confusion_matrix(y_test, y_pred)
     fig, ax = plt.subplots()
     ax.matshow(cm, cmap=plt.cm.Blues)
@@ -86,143 +98,125 @@ def plot_confusion_matrix(y_test, y_pred):
     plt.show()
 
 def plot_roc_curve(y_test, y_scores):
+    """Genera y muestra la curva ROC para las predicciones del modelo."""
     RocCurveDisplay.from_predictions(y_test, y_scores)
     plt.title('ROC Curve')
     plt.show()
 
 def detect_plagiarism(model, features_copies):
+    """Detecta si los textos son plagiados usando el modelo entrenado."""
     predictions = model.predict(features_copies)
     return predictions
 
 def detect_paraphrasing(original_text, copy_text):
+    """Detecta el parafraseo entre un texto original y una copia."""
     preprocessed_original = preprocess_text(original_text)
     preprocessed_copy = preprocess_text(copy_text)
-
     tfidf_vectorizer = TfidfVectorizer()
     tfidf_matrix = tfidf_vectorizer.fit_transform([preprocessed_original, preprocessed_copy])
-
     similarity_score = cosine_similarity(tfidf_matrix[0], tfidf_matrix[1])[0][0]
     paraphrasing_percentage = similarity_score * 100
     paraphrasing_percentage = min(paraphrasing_percentage, 100)
-
     if paraphrasing_percentage >= 50:
         return "Parafraseo", paraphrasing_percentage
-
     return None, 0
 
 def detect_disordered_phrases(original_text, copy_text):
+    """Detecta frases desordenadas entre el texto original y la copia."""
     original_sentences = nltk.sent_tokenize(original_text)
     copy_sentences = nltk.sent_tokenize(copy_text)
-
     tfidf_vectorizer = TfidfVectorizer()
     tfidf_matrix = tfidf_vectorizer.fit_transform(original_sentences + copy_sentences)
     similarity_score = cosine_similarity(tfidf_matrix[0], tfidf_matrix[1])[0][0]
-
     return "Desordenar frases", similarity_score * 100
 
 def detect_time_change(original_text, copy_text):
+    """Detecta cambios en el uso de tiempo verbal entre el texto original y la copia."""
     past_words = {'was', 'were', 'had', 'did'}
     present_words = {'is', 'are', 'has', 'does'}
-
     original_tokens = set(word_tokenize(original_text.lower()))
     copy_tokens = set(word_tokenize(copy_text.lower()))
-
     original_past_count = sum(word in past_words for word in original_tokens)
     copy_past_count = sum(word in past_words for word in copy_tokens)
     original_present_count = sum(word in present_words for word in original_tokens)
     copy_present_count = sum(word in present_words for word in copy_tokens)
-
     original_past_percentage = original_past_count / max(len(original_tokens), 1) * 100
     copy_past_percentage = copy_past_count / max(len(copy_tokens), 1) * 100
-
     if abs(original_past_percentage - copy_past_percentage) > 10:  # 10% difference threshold
         return "Cambio de tiempo", max(original_past_percentage, copy_past_percentage)
     return None, 0
 
 def detect_voice_change(original_text, copy_text):
+    """Detecta cambios en el uso de la voz, como activa o pasiva, entre el texto original y la copia."""
     personal_pronouns = {'i', 'you', 'he', 'she', 'it', 'we', 'they'}
-
     original_tokens = word_tokenize(original_text.lower())
     copy_tokens = word_tokenize(copy_text.lower())
-
     original_personal_count = sum(token in personal_pronouns for token in original_tokens)
     copy_personal_count = sum(token in personal_pronouns for token in copy_tokens)
-
     original_personal_percentage = original_personal_count / max(len(original_tokens), 1) * 100
     copy_personal_percentage = copy_personal_count / max(len(copy_tokens), 1) * 100
-
     if abs(original_personal_percentage - copy_personal_percentage) > 10:  # 10% difference threshold
         return "Cambio de voz", max(original_personal_percentage, copy_personal_percentage)
     return None, 0
 
 def detect_inserted_phrases(original_text, copy_text):
+    """Detecta frases que han sido insertadas o modificadas significativamente entre el texto original y la copia."""
     original_tokens = set(word_tokenize(original_text.lower()))
     copy_tokens = set(word_tokenize(copy_text.lower()))
-
     common_tokens = original_tokens.intersection(copy_tokens)
     if len(original_tokens) == 0 or len(copy_tokens) == 0:
         return None, 0
-
     original_percentage = len(common_tokens) / len(original_tokens)
     copy_percentage = len(common_tokens) / len(copy_tokens)
-
     # Considerar significativo sólo si más del 50% de los tokens coinciden
     if original_percentage > 0.5 and copy_percentage > 0.5:
         return "Insertar o reemplazar frases", max(original_percentage, copy_percentage) * 100
     return None, 0
 
-
 def detect_plagiarism_type(original_text, copy_text):
+    """Determina el tipo de plagio presente entre el texto original y la copia, basándose en diversas métricas de similitud."""
     types = []
     percentages = []
     disordered_phrases_score = detect_disordered_phrases(original_text, copy_text)
     if disordered_phrases_score[1] is not None:
         types.append(disordered_phrases_score[0])
         percentages.append(disordered_phrases_score[1])
-
     time_change_type, time_change_percentage = detect_time_change(original_text, copy_text)
     if time_change_type:
         types.append(time_change_type)
         percentages.append(time_change_percentage)
-
     voice_change_type, voice_change_percentage = detect_voice_change(original_text, copy_text)
     if voice_change_type:
         types.append(voice_change_type)
         percentages.append(voice_change_percentage)
-
     inserted_phrases_type, inserted_phrases_percentage = detect_inserted_phrases(original_text, copy_text)
     if inserted_phrases_type:
         types.append(inserted_phrases_type)
         percentages.append(inserted_phrases_percentage)
-
     paraphrasing_type, paraphrasing_percentage = detect_paraphrasing(original_text, copy_text)
     if paraphrasing_type:
         types.append(paraphrasing_type)
         percentages.append(paraphrasing_percentage)
-
     if percentages:
         max_percentage_index = percentages.index(max(percentages))
         return types[max_percentage_index], percentages[max_percentage_index]
     return "Ninguno", 0
 
 def main():
+    """Función principal que ejecuta las operaciones del módulo, incluyendo carga de datos, procesamiento, entrenamiento del modelo y evaluación."""
     originals_path = "src/data/otros1"
     copies_path = "src/data/plagioProfes/Final Testing"
     originals = load_originals(originals_path)
     copies = load_copies(copies_path)
-
     all_documents = originals + copies
     preprocessed_documents = [preprocess_text(text) for _, text in all_documents]
     features = extract_features(preprocessed_documents)
-
     num_originals = len(originals)
     features_originals = features[:num_originals]
     features_copies = features[num_originals:]
-
     # Entrenando el modelo y obteniendo predicciones
     start_time = time.time()
     model, y_test, y_pred, y_scores = train_model(features_originals, features_copies)
-    
     # Calcular métricas
     auc_score = calculate_metrics(y_test, y_pred, y_scores)
     print(f"AUC: {auc_score}")
@@ -234,7 +228,6 @@ def main():
     predictions = detect_plagiarism(model, features_copies)
     plagiarism_results = []
     df = pd.DataFrame(columns=['original_name', 'original_text', 'copy_name', 'copy_text', 'is_copy', 'copy_type', 'percentage'])
-
     for i, copy_doc in enumerate(copies):
         copy_name, copy_text = copy_doc
         plagiarism_results_copy = []
@@ -253,7 +246,6 @@ def main():
         plagiarism_results_copy.sort(key=lambda x: x[3], reverse=True)
         top_5_results = plagiarism_results_copy[:5]
         plagiarism_results.append((copy_name, top_5_results))
-
     with open('src/results/plagiarism_results.txt', 'w') as file:
         for result in plagiarism_results:
             copy_name, top_5_results = result
@@ -264,7 +256,6 @@ def main():
                 file.write(f"Tipo de plagio: {'Ninguno' if plagiarism_found == 'No' else plagiarism_type}\n")
                 file.write(f"Porcentaje de plagio: {round(plagiarism_percentage, 2)}%\n")
                 file.write("------------------------------------------\n")
-
     df.to_excel('src/results/plagiarism_results.xlsx', index=False)
 
 if __name__ == "__main__":

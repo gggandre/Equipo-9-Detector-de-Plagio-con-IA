@@ -18,5 +18,14 @@
         "activityBarBadge.background": "#25320e",
         "activityBarBadge.foreground": "#e7e7e7"
     },
-    "peacock.color": "#832561"
+    "peacock.color": "#832561",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./tests",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
 }
