@@ -29,11 +29,24 @@ Este proyecto implementa un sistema de detección de plagio utilizando técnicas
 
 El sistema procesa los documentos de entrada realizando primero un preprocesamiento que incluye la eliminación de stopwords, stemming y lematización. Luego, utiliza TF-IDF para extraer características de los textos. Estas características alimentan un modelo SVM entrenado que clasifica cada documento como plagio o no. El sistema evalúa su rendimiento utilizando varias métricas y proporciona visualizaciones como la matriz de confusión y la curva ROC.
 
+## Configuración del Entorno
+
+Antes de ejecutar el programa, es importante asegurarse de que todas las dependencias necesarias estén instaladas. Este proyecto utiliza varias librerías como parte de su funcionamiento, las cuales están listadas en el archivo `requirements.txt`.
+
+### Instalación de Dependencias
+
+Para instalar las dependencias necesarias, primero debes asegurarte de tener Python y pip instalados en tu sistema. Luego, puedes instalar todas las dependencias requeridas ejecutando el siguiente comando en tu terminal:
+
+```pip install -r requirements.txt```
+
+
 ## Ejecución del Programa
 
 Para ejecutar el programa principal que realiza la detección de plagio, utiliza el siguiente comando en la consola:
 
 ```python -m unittest src/plagiarism_detection.py```
+
+
 ![image](https://github.com/gggandre/Equipo-9-Detector-de-Plagio-con-IA/assets/84719490/ee12f352-5b1a-4ccb-b2b3-0838a4c61c1f)
 
 Este comando ejecutará el script principal, procesando los documentos, entrenando el modelo, y evaluando los resultados. El programa está diseñado para guardar los resultados de la detección de plagio de la siguiente manera:
