@@ -1,0 +1,1 @@
+Artificial intelligence (AI) technology is quite wide-ranging, with computer vision being one of the areas where it has been widely applied. In healthcare, various algorithms are used to obtain meaningful information from medical images. The chapter reviews the concept of computer vision and its application in healthcare.

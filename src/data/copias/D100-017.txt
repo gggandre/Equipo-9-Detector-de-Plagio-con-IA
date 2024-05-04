@@ -1,0 +1,1 @@
+Artificial Intelligence (AI) has been installed on modern intelligent vehicles, focusing on smart sensing research. This letter aims to push the boundary of smart sensing research for intelligent vehicles, discussing Sora-based Parallel Vision to boost foundation models of smart sensing.

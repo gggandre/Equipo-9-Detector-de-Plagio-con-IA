@@ -1,0 +1,1 @@
+At present, the application of Artificial Intelligence (AI) in industrial control and smart home fields has received a good response. This paper designed an EP Vision System (VS) based on AI technology, combining embedded hardware design with the Support Vector Machine (SVM) algorithm to realize intelligent robot interaction and target detection functions.

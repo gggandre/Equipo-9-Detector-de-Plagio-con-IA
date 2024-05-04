@@ -1,0 +1,5 @@
+Purpose: This study aims to investigate the effectiveness of recommender systems in knowledge discovery.
+
+Methodology: The study adopts a desktop research methodology, relying on secondary data collected from existing resources. Through systematic literature review, the study explores the effectiveness of recommender systems in knowledge discovery, emphasizing the role of advanced algorithms and personalized techniques in generating relevant recommendations. Contextual information is identified as a crucial factor influencing recommendation effectiveness.
+
+Findings: The study reveals a contextual and methodological gap in recommender systems' effectiveness in knowledge discovery. It highlights the positive correlation between user engagement metrics and knowledge discovery outcomes, emphasizing the importance of continuous refinement of recommender system algorithms. Recommendations include adopting hybrid recommender systems, integrating contextual information, and prioritizing user engagement to enhance knowledge discovery outcomes.

@@ -1,0 +1,1 @@
+Medical image segmentation is a crucial task in computer vision, with traditional approaches ranging from thresholding to modern artificial intelligence methods. This paper analyzes various architectures used for medical image segmentation, offering a comparative perspective on their effectiveness.

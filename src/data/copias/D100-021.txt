@@ -1,0 +1,1 @@
+This paper introduces a study employing artificial intelligence (AI) and computer vision algorithms for detecting human emotions in video content. The research aims to create software capable of emotion detection by leveraging AI algorithms and image processing pipelines to identify users' facial expressions.
