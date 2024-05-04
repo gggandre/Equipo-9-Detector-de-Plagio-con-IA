@@ -40,8 +40,14 @@ Este comando ejecutará el script principal, procesando los documentos, entrenan
 
 ### Guardado de Resultados
 Una vez completada la ejecución del programa:
+
+
 ![image](https://github.com/gggandre/Equipo-9-Detector-de-Plagio-con-IA/assets/84719490/fbb3926f-ae2d-4df4-a256-cd0c99e0155c)
+
+
 **Resultados en Texto:** Los resultados de la detección se guardarán en un archivo .txt dentro de la carpeta results. Este archivo contendrá detalles sobre cada documento analizado, incluyendo si se detectó plagio y el tipo de plagio identificado.
+
+
 **Resultados en Excel:** Adicionalmente, los resultados se guardarán en un archivo .xlsx dentro de la misma carpeta sresults. Este archivo de Excel facilita una visualización y análisis más detallado, permitiendo filtrar y ordenar los datos según sea necesario.
 Estos archivos proporcionan una documentación completa y detallada de todos los análisis realizados, permitiendo un seguimiento fácil de las instancias detectadas de plagio y otros detalles relevantes del análisis.
 
